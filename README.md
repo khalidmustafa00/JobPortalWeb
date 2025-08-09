@@ -22,8 +22,9 @@ A full-featured **Job Portal Web App** built with **Spring Boot 3**, **Spring Se
 - 🧭 Global Search for jobs by title, company, or location
 - 🧾 Multipart file upload (resume, photo)
 - 🛡️ Spring Security-based authentication and authorization
+- 🔑 Forgot Password functionality with email verification and reset link
 - 💾 Hibernate/JPA integration with MySQL
-- 📅 Timestamps for job posts (Created At, Updated At) and many more 
+- 📅 Timestamps for job posts (Created At, Updated At) and many more
 
 ## 🛠️ Tech Stack
 
