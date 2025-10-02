@@ -1,6 +1,6 @@
 # 💼 Job Portal Web Application
 ### 🎥 Watch Demo
-[Watch the video here](https://www.youtube.com/watch?v=<VIDEO_ID>)
+[Watch the video here](https://youtu.be/NyjsAGKQYNo?si=oiqPkjidOVVwD46N)
 
 A full-featured **Job Portal Web App** built with **Spring Boot 3**, **Spring Security**, **Hibernate**, **Thymeleaf**, and **MySQL**.  
 
